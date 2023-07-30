@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+English / Spanish
+# ericsaza.github.io
+A web page in which the user is shown silhouettes of Pokémon and the user will have to guess which Pokémon it is.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Attributes:
+- Intuitive and easy to use user interface.
+- Silhouettes are dynamically generated in the browser using PokeApi and CSS properties.
 
-## Available Scripts
+# Screenshots:
+- Guessing a Pokémon.
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/a1a39e17-f06a-4ac1-a8c8-e70ea01a1725)
+- Pokemon Guessed.
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/cdde5518-3ed2-4676-ba1d-25088dbe8f9c)
+- Seeing the shiny form of a pokemon after having made a mistake.
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/fdd3fe27-cbb4-4183-91bd-94163c862bd4)
 
-In the project directory, you can run:
 
-### `npm start`
+# Development:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You will need [node and npm](https://nodejs.org/en/) set up to get the code running locally. You will also need to download the Pokémon images and sounds, because they are not included in this repository. You can download them from https://gearoid.me/pokemon/downloads/pokemedia.zip. Unzip this and put `images/` and `sounds/` in the same directory as `index.html`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Once you have done this, install the dependencies by running:
 
-### `npm test`
+```
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run the site locally, you can then run:
 
-### `npm run build`
+```
+npm run serve
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To build the site to be deployed online, run:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm run build
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Here is the basic structure of the files:
+`index.html`: Contains the HTML structure.
+`style.css`: Defines the styles of the directory.
 
-### `npm run eject`
+# Contributions:
+Contributions are welcome. Feel free to open an issue or submit a pull request in the repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Credits:
+This project was created by [Eric_sa_za](https://www.linkedin.com/in/eric-salado-zafra/) and you can find the original repository [here](https://github.com/ericsaza).
+If you use this code, please mention and link to the repository.
