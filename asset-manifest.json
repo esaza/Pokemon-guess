@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pokemon-guess/static/css/main.f9c09ce7.css",
+    "main.js": "/Pokemon-guess/static/js/main.781c6828.js",
+    "static/js/787.2d9ce644.chunk.js": "/Pokemon-guess/static/js/787.2d9ce644.chunk.js",
+    "static/media/logo.png": "/Pokemon-guess/static/media/logo.a4a49d7a315b725de60c.png",
+    "index.html": "/Pokemon-guess/index.html",
+    "main.f9c09ce7.css.map": "/Pokemon-guess/static/css/main.f9c09ce7.css.map",
+    "main.781c6828.js.map": "/Pokemon-guess/static/js/main.781c6828.js.map",
+    "787.2d9ce644.chunk.js.map": "/Pokemon-guess/static/js/787.2d9ce644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c09ce7.css",
+    "static/js/main.781c6828.js"
+  ]
+}
