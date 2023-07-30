@@ -1,4 +1,4 @@
-English / Spanish
+English / [Spanish](https://github.com/ericsaza/Pokemon-guess/blob/master/README_es.md)
 # ericsaza.github.io
 A web page in which the user is shown silhouettes of Pokémon and the user will have to guess which Pokémon it is.
 
@@ -35,6 +35,7 @@ To build the site to be deployed online, run:
 
 ```
 npm run build
+```
 
 # Here is the basic structure of the files:
 `index.html`: Contains the HTML structure.
