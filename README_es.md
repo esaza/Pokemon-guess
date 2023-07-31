@@ -8,12 +8,11 @@ Una página web en la que al usuario se le muestran siluetas de Pokémon y el us
 
 # Capturas de pantalla:
 - Adivinando un Pokémon.
-![imagen](https://github.com/ericsaza/Pokemon-guess/assets/94136968/a1a39e17-f06a-4ac1-a8c8-e70ea01a1725)
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/cc65ccf6-594f-484d-9b0a-0ecf73ef0e53)
 - Pokémon adivinado.
-![imagen](https://github.com/ericsaza/Pokemon-guess/assets/94136968/cdde5518-3ed2-4676-ba1d-25088dbe8f9c)
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/defe20d8-a858-4102-95c3-5b56b3175261)
 - Ver la forma shiny de un pokemon después de haber cometido un error.
-![imagen](https://github.com/ericsaza/Pokemon-guess/assets/94136968/fdd3fe27-cbb4-4183-91bd-94163c862bd4)
-
+![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/5d8e241e-d3fe-45c0-b2bd-d522c366b0b5)
 
 # Desarrollo:
 
