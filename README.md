@@ -1,5 +1,5 @@
 English / [Spanish](https://github.com/ericsaza/Pokemon-guess/blob/master/README_es.md)
-# ericsaza.github.io
+# Pokemon-guess
 A web page in which the user is shown silhouettes of Pokémon and the user will have to guess which Pokémon it is.
 
 # Attributes:
