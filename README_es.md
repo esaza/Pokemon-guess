@@ -1,5 +1,5 @@
 [Inglés](https://github.com/ericsaza/Pokemon-guess/blob/master/README.md) / Español
-# ericsaza.github.io
+# Pokemon-guess
 Una página web en la que al usuario se le muestran siluetas de Pokémon y el usuario tendrá que adivinar de qué Pokémon se trata.
 
 # Atributos:
