@@ -7,7 +7,7 @@ A web page in which the user is shown silhouettes of Pokémon and the user will 
 - Silhouettes are dynamically generated in the browser using PokeApi and CSS properties.
 
 # Screenshots:
-- Guessing a Pokémon.
+- Guessing a Pokemon.
 ![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/cc65ccf6-594f-484d-9b0a-0ecf73ef0e53)
 - Pokemon Guessed.
 ![image](https://github.com/ericsaza/Pokemon-guess/assets/94136968/defe20d8-a858-4102-95c3-5b56b3175261)
